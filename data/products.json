@@ -1,0 +1,35 @@
+[
+  { "id": 1, "img": "/product-1.png", "title": "ROSE SERENITY", "price": 935, "tag": "BEST SELLERS", "category": "FLORAL" },
+  { "id": 2, "img": "/product-1.png", "title": "JUICY SCENT", "price": 935, "tag": "ON SALE", "category": "FRUITY" },
+  { "id": 3, "img": "/product-1.png", "title": "ORANGE SUNSHINE", "price": 935, "tag": "ON SALE", "category": "CITRUS" },
+  { "id": 4, "img": "/product-1.png", "title": "COCONUT CRAZE", "price": 935, "tag": "ON SALE", "category": "FRUITY" },
+  { "id": 5, "img": "/product-1.png", "title": "CITRUS BLISS", "price": 935, "tag": "BEST SELLERS", "category": "CITRUS" },
+  { "id": 6, "img": "/product-1.png", "title": "TROPICAL PARADISE", "price": 935, "tag": "BEST SELLERS", "category": "CITRUS" },
+  { "id": 7, "img": "/product-1.png", "title": "PEACHY DAY", "price": 935, "tag": "BEST SELLERS", "category": "FRUITY" },
+  { "id": 8, "img": "/product-1.png", "title": "PINE SCENT", "price": 935, "tag": "BEST SELLERS", "category": "WOODY" },
+  { "id": 9, "img": "/product-1.png", "title": "OAK ESSENCE", "price": 935, "tag": "ON SALE", "category": "WOODY" },
+
+  { "id": 10, "img": "/product-1.png", "title": "CEDAR GLOW", "price": 935, "tag": "ON SALE", "category": "WOODY" },
+  { "id": 11, "img": "/product-1.png", "title": "LEMON ZEST", "price": 935, "tag": "", "category": "CITRUS" },
+  { "id": 12, "img": "/product-1.png", "title": "GRAPEFRUIT DELIGHT", "price": 935, "tag": "", "category": "CITRUS" },
+  { "id": 13, "img": "/product-1.png", "title": "LIME FRESH", "price": 935, "tag": "", "category": "CITRUS" },
+  { "id": 14, "img": "/product-1.png", "title": "PETALS PERFUME", "price": 935, "tag": "", "category": "FLORAL" },
+  { "id": 15, "img": "/product-1.png", "title": "LAVENDER MAZE", "price": 935, "tag": "", "category": "FLORAL" },
+  { "id": 16, "img": "/product-1.png", "title": "JASMINE HAVEN", "price": 935, "tag": "", "category": "FLORAL" },
+  { "id": 17, "img": "/product-1.png", "title": "GARDENIA HAVEN", "price": 935, "tag": "", "category": "FLORAL" },
+  { "id": 18, "img": "/product-1.png", "title": "LILY OASIS", "price": 935, "tag": "", "category": "FLORAL" },
+
+  { "id": 19, "img": "/product-1.png", "title": "BIRCH WOOD", "price": 935, "tag": "", "category": "WOODY" },
+  { "id": 20, "img": "/product-1.png", "title": "WALNUT FRAGRANCE", "price": 935, "tag": "", "category": "WOODY" },
+  { "id": 21, "img": "/product-1.png", "title": "BAMBOO BREEZE", "price": 935, "tag": "", "category": "WOODY" },
+  { "id": 22, "img": "/product-1.png", "title": "TUTTI FRUITY", "price": 935, "tag": "", "category": "FRUITY" },
+  { "id": 23, "img": "/product-1.png", "title": "CHERRY BLOSSOM", "price": 935, "tag": "", "category": "FRUITY" },
+  { "id": 24, "img": "/product-1.png", "title": "BERRY FUSION", "price": 935, "tag": "", "category": "FRUITY" },
+
+  { "id": 25, "img": "/product-2.png", "title": "GIFT SET A", "price": 1402, "tag": "", "category": "GIFT SETS" },
+  { "id": 26, "img": "/product-3.png", "title": "GIFT SET B", "price": 1402, "tag": "", "category": "GIFT SETS" },
+  { "id": 27, "img": "/product-4.png", "title": "CANDLE CARE KIT", "price": 655, "tag": "", "category": "GIFT SETS" },
+  { "id": 28, "img": "/product-5.png", "title": "WICK TRIMMERS", "price": 467, "tag": "", "category": "CANDLE ACCESSORIES" },
+  { "id": 29, "img": "/product-6.png", "title": "ELECTRIC LIGHTER", "price": 561, "tag": "", "category": "CANDLE ACCESSORIES" },
+  { "id": 30, "img": "/product-7.png", "title": "CANDLE SNUFFER", "price": 467, "tag": "", "category": "CANDLE ACCESSORIES" }
+]
