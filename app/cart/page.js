@@ -43,7 +43,7 @@ const CartPage = () => {
         <h2 className="text-[4.8rem] font-bold mt-[3.2rem] mb-[4rem] text-center">
           CART
         </h2>
-        <div className="flex items-center justify-around sm:justify-between p-6">
+        <div className="flex items-center justify-between py-[1.2rem] pl-[1.2rem] sm:pr-[1.2rem] pr-[2.8rem]">
           <p className="text-[2rem] w-[50vw] items-center">
             PRODUCT
           </p>
@@ -54,9 +54,9 @@ const CartPage = () => {
           {cart.map((item) => (
             <div
               key={item.id}
-              className="flex items-center justify-around sm:justify-between p-6 border"
+              className="flex items-center justify-between py-[1.2rem] pl-[1.2rem] sm:pr-[1.2rem] pr-[2.8rem] border"
             >
-              <div className="flex gap-[1.8rem] w-[50vw] items-center">
+              <div className="flex gap-[1.8rem] w-[54vw] items-center">
                 <img
                   src={item.img}
                   alt={item.title}
