@@ -15,7 +15,14 @@ const page = () => {
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-[32px] p-[16px] mb-[42px]">
             {products.map((product) => (
-              <ProductCard key={product.id} title={product.title} price={product.price} img={product.img} tag={product.tag}/>
+              <ProductCard
+                key={product.id}
+                url={`/product/${product.id}`}
+                title={product.title}
+                price={product.price}
+                img={product.img}
+                tag={product.tag}
+              />
             ))}
           </div>
         </div>

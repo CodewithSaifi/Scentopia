@@ -1,11 +1,12 @@
+import Link from "next/link";
 import React from "react";
 
 const ProductCard = ({ url, img, title, price, tag }) => {
   return (
     <>
-      <a
+      <Link
         href={url}
-        className="group relative overflow-hidden border rounded-md bg-[#f3efe4]"
+        className="group relative overflow-hidden rounded-md bg-[#f3efe4]"
       >
         <div className="relative aspect-[5/5] w-full bg-[#e9e5da]">
           <img
@@ -30,7 +31,7 @@ const ProductCard = ({ url, img, title, price, tag }) => {
           </h3>
           <p className="mt-1 text-[1.8rem]">₹{price}</p>
         </div>
-      </a>
+      </Link>
     </>
   );
 };

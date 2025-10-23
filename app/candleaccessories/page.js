@@ -20,6 +20,7 @@ const page = () => {
             {candleAccessories.map((product) => (
               <ProductCard
                 key={product.id}
+                url={`/product/${product.id}`}
                 title={product.title}
                 price={product.price}
                 img={product.img}
