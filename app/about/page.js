@@ -12,7 +12,7 @@ const page = () => {
         <section className="bg-[url('/about-bg-2.png')] bg-cover bg-center w-full h-screen flex items-center justify-end p-[16px]">
           <div className="flex flex-col justify-between items-center w-[50rem] min-h-[50rem] max-h-[auto] bg-[#f3efe4b7] md:mr-[100px] ml-[50px] rounded-tl-full rounded-tr-full p-[3rem]">
             <div>
-              <h3 className="text-[4.2rem] text-center mt-[18px] mb-[48px] font-semibold">
+              <h3 className="text-[4.2rem] text-center mt-[18px] mb-[48px] font-medium">
                 WHO IS <br /> SCENTOPIA?
               </h3>
             </div>
@@ -35,7 +35,7 @@ const page = () => {
         <section className="bg-[url('/about-bg-3.png')] bg-cover bg-center w-full h-screen flex items-center justify-end p-[16px]">
           <div className="flex flex-col justify-between items-center w-[50rem] min-h-[50rem] max-h-[auto] bg-[#f3efe4b7] md:mr-[100px] ml-[50px] rounded-tl-full rounded-tr-full p-[3rem]">
             <div>
-              <h3 className="text-[4.2rem] text-center mt-[18px] mb-[4.8rem] font-semibold">
+              <h3 className="text-[4.2rem] text-center mt-[18px] mb-[4.8rem] font-medium">
                 KIND TO <br /> OUR EARTH
               </h3>
             </div>
@@ -58,7 +58,7 @@ const page = () => {
         <section className="bg-[url('/about-bg-4.png')] bg-cover bg-center w-full h-screen flex items-center justify-end p-[16px]">
           <div className="flex flex-col justify-between items-center w-[50rem] min-h-[50rem] max-h-[auto] bg-[#f3efe4b7] md:mr-[100px] ml-[50px] rounded-tl-full rounded-tr-full p-[3rem]">
             <div>
-              <h3 className="text-[4.2rem] text-center mt-[18px] mb-[48px] font-semibold">
+              <h3 className="text-[4.2rem] text-center mt-[18px] mb-[48px] font-medium">
                 MAKE YOUR <br /> DAY GOOD
               </h3>
             </div>
@@ -83,7 +83,7 @@ const page = () => {
 
         <section>
           <div className="max-w-[1300px] mx-auto">
-            <h2 className="text-[4.2rem] font-semibold my-[4.2rem] text-center">
+            <h2 className="text-[4.2rem] font-medium my-[4.2rem] text-center">
               MEET THE TEAM BEHIND SCENTOPIA!
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 justify-items-center gap-[4.2rem] mx-[36px] mb-[100px]">

@@ -26,10 +26,10 @@ const ProductCard = ({ url, img, title, price, tag }) => {
         </div>
 
         <div className="p-3">
-          <h3 className="text-[2rem] font-semibold leading-tight line-clamp-2 mb-[1.6rem]">
+          <h3 className="text-[2rem] font-medium leading-tight line-clamp-2 mb-[.8rem]">
             {title}
           </h3>
-          <p className="mt-1 text-[1.8rem]">₹{price}</p>
+          <p className="text-[1.8rem]">₹{price}</p>
         </div>
       </Link>
     </>

@@ -40,7 +40,7 @@ export default function Home() {
         </section>
         <section className="px-[16px]">
           <div className="max-w-[1300px] mx-auto mb-[48px]">
-            <h2 className="text-[4.8rem] font-semibold text-center mb-[4.8rem]">
+            <h2 className="text-[4.8rem] font-medium text-center mb-[4.8rem]">
               SHOP YOUR FAVORITE
             </h2>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-[38px]">
@@ -74,7 +74,7 @@ export default function Home() {
         <section className="bg-[url('/homepage-bg.png')] bg-cover bg-center w-full h-[74rem] flex items-center justify-end mb-[42px] p-[16px]">
           <div className="flex flex-col justify-between items-center w-[50rem] h-[50rem] bg-[#f3efe4b7] mr-[100px] rounded-[38px] p-[3rem]">
             <div>
-              <h3 className="text-[4.2rem] font-semibold">ABOUT US</h3>
+              <h3 className="text-[4.8rem] font-medium">ABOUT US</h3>
             </div>
             <div className="flex flex-col items-center">
               <p className="text-[1.8rem] text-justify font-medium mb-[2.8rem]">
@@ -99,7 +99,7 @@ export default function Home() {
         </section>
         <section className="max-w-[1300px] mx-auto px-[16px]">
           <div className="mb-[4.8rem]">
-            <h2 className="text-[4.8rem] font-semibold text-center mb-[48px]">
+            <h2 className="text-[4.8rem] font-medium text-center mb-[48px]">
               GET CONNECT WITH US
             </h2>
             <div className="relative flex flex-col items-center justify-center text-center h-[70rem] overflow-hidden">

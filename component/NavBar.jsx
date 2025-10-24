@@ -28,7 +28,7 @@ const NavBar = () => {
               </a>
             </div>
             <div className="hidden md:block overflow-y-auto pl-[2.4rem]">
-              <ul className="flex gap-[4.2rem] whitespace-nowrap text-[16px]">
+              <ul className="flex gap-[4.2rem] font-medium whitespace-nowrap text-[16px]">
                 <li>
                   <a
                     href="/"

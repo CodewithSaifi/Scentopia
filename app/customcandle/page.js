@@ -20,7 +20,7 @@ const page = () => {
               />
             </div>
             <div className="flex flex-col justify-between w-full bg-[#9fb6c4] p-[3rem]">
-              <h3 className="text-[7rem] mb-[48px] font-semibold">
+              <h3 className="text-[7rem] mb-[48px] font-medium">
                 MAKE IT <br /> YOUR OWN!
               </h3>
               <p className="text-[2.6rem] text-justify font-medium">
@@ -37,7 +37,7 @@ const page = () => {
         <section>
           <div className="grid md:grid-cols-2 items-stretch">
             <div className="flex flex-col justify-between w-full bg-[#9fb6c4] p-[3rem]">
-              <h3 className="text-[7rem] mb-[48px] font-semibold">
+              <h3 className="text-[7rem] mb-[48px] font-medium">
                 HOW IT <br /> WORKS?
               </h3>
               <div>
@@ -72,7 +72,7 @@ const page = () => {
 
         <section className="flex items-center justify-center py-[40px]">
           <div className="w-full max-w-[650px] p-8 rounded-lg">
-            <h1 className="text-[4.2rem] font-bold text-center mb-8 tracking-wide">
+            <h1 className="text-[4.8rem] font-medium text-center mb-[3.8rem] tracking-wide">
               TELL US YOUR IDEAS!
             </h1>
 
