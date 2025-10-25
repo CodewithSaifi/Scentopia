@@ -1,5 +1,6 @@
 "use client";
 import NavBar from "@/component/NavBar";
+import Link from "next/link";
 import React, { useEffect, useState } from "react";
 
 const CartPage = () => {
@@ -91,13 +92,13 @@ const CartPage = () => {
           <p className="text-[4.2rem] font-medium mb-[1.8rem]">₹{totalPrice.toLocaleString()}</p>
           <button
             onClick={handleEmptyCart}
-            className="text-[2rem] mr-[2.8rem] bg-[#7e747f] text-white py-[5px] px-[20px] rounded-[9px] text"
+            className="text-[2rem] mr-[2.8rem] bg-[#7e747f] text-white py-[5px] px-[20px] rounded-[9px] hover:bg-[#7e747fa1] transition duration-300 cursor-pointer"
           >
             EMPTY CART
           </button>
-          <button className="text-[2rem] bg-[#7e747f] text-white py-[5px] px-[20px] rounded-[9px] text">
+          <Link href={'/cart/checkout'} className="text-[2rem] bg-[#7e747f] text-white py-[5px] px-[20px] rounded-[9px] hover:bg-[#7e747fa1] transition duration-300 cursor-pointer">
             CHECKOUT
-          </button>
+          </Link>
         </div>
       </section>
     </>
