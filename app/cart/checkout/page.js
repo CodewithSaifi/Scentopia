@@ -34,13 +34,6 @@ const page = () => {
                 className="text-[2rem] p-[8px] bg-[#9fb6c4] mb-[2.4rem] rounded-[8px]"
               />
             </div>
-            <div>
-              <label className="text-[2rem] font-medium">State</label>
-              <input
-                type="text"
-                className="text-[2rem] p-[8px] bg-[#9fb6c4] mb-[2.4rem] rounded-[8px]"
-              />
-            </div>
           </div>
           <label className="text-[2rem] font-medium">Phone No</label>
           <input
